@@ -19,8 +19,6 @@ Written practice on Apriori Algorithm
 
 Written practice on FP-Growth Algorithm
 
-------
-------
 
 ## [Lab](https://github.com/XXDIL/Data-Mining-And-Warehousing/tree/main/Labs)
 
